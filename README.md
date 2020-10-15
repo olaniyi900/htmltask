@@ -1,7 +1,8 @@
 # htmltask
 This is for side hustle intership
+### SLACK ID: Olaniyi900
 ### SH-IT-0129
-### OLANIYI AJAYI
+### NAME: OLANIYI AJAYI
 # GIT
 Git is a version control system to track files changes.
 Github is a remote repository to store this files.
